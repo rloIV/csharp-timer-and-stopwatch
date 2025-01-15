@@ -10,4 +10,4 @@ This is a simple console application in C# that provides two features:
 - Stopwatch with real-time elapsed time display.
 
 Clone the repository:
-git clone https://github.com/rloIV/csharp-timer-and-stopwatch.git
+`git clone https://github.com/rloIV/csharp-timer-and-stopwatch.git`
